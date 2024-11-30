@@ -30,7 +30,7 @@
 .title1 
 {
   color: rgb(45, 39, 66);
-  
+  position: relative;
   font-family: sans-serif;
   
 }
