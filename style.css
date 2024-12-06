@@ -37,6 +37,13 @@
   
 }
 
+#logo
+{
+  position: absolute;
+  right: 100px;
+  top: 100px;
+}
+
 #flex, a 
 {
   list-style-type: none;
